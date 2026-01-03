@@ -2,8 +2,6 @@
 
 Energy choices define civilization's relationship with the climate. Every watt generated either draws from finite geological stocks or harvests renewable flows—and this distinction shapes atmospheric chemistry, ecological stability, and intergenerational responsibility for centuries. This section examines energy sources through a systems lens: resource availability, carbon intensity, reversibility, and the long-term consequences that extend far beyond quarterly reports or political cycles.
 
-![03_energy_sources.png](03_energy_sources.png)
-
 ---
 
 ## The Central Question
@@ -23,7 +21,7 @@ Understanding these trade-offs enables informed decisions—whether by policymak
 
 ### [Comparing Energy Sources](01_sources/)
 
-![Energy sources overview](01_sources/01_sources.png)
+[![Energy sources overview](01_sources/01_sources.png)](01_sources/)
 
 A comprehensive framework for evaluating energy systems. Compares human power, fossil fuels, renewables, and nuclear across resource availability, installation requirements, ecological effects, and long-term consequences. The foundation for understanding all other topics in this section.
 
@@ -31,7 +29,7 @@ A comprehensive framework for evaluating energy systems. Compares human power, f
 
 ### [Human-Powered Energy](02_human/)
 
-![Human-powered mobility](02_human/02_human.png)
+[![Human-powered mobility](02_human/02_human.png)](02_human/)
 
 Walking, cycling, and human muscle power. Zero-emission, health-promoting, and deeply integrated with biological limits. Explores why human power remains the cleanest form of energy for short-distance mobility.
 
@@ -39,7 +37,7 @@ Walking, cycling, and human muscle power. Zero-emission, health-promoting, and d
 
 ### [Fossil Fuels](03_fossil/)
 
-![Fossil fuel systems](03_fossil/02_phossil.png)
+[![Fossil fuel systems](03_fossil/02_phossil.png)](03_fossil/)
 
 Coal, oil, and natural gas—the energy sources that built industrial civilization and now destabilize its climate. Examines high energy density, extraction consequences, and the fundamental irreversibility of combustion emissions.
 
@@ -47,7 +45,7 @@ Coal, oil, and natural gas—the energy sources that built industrial civilizati
 
 ### [Renewable Energy](04_renewables/)
 
-![Renewable energy systems](04_renewables/04_renewables.png)
+[![Renewable energy systems](04_renewables/04_renewables.png)](04_renewables)
 
 Solar, wind, and hydropower as flow-based energy systems. Analyzes scalability, intermittency, land use, and ecological trade-offs. Shows why renewables align with climate goals while requiring system-level thinking.
 
@@ -55,7 +53,7 @@ Solar, wind, and hydropower as flow-based energy systems. Analyzes scalability, 
 
 ### [Nuclear Fission](05_nuclear/)
 
-![Nuclear power](05_nuclear/05_nuclear.png)
+[![Nuclear power](05_nuclear/05_nuclear.png)](05_nuclear/)
 
 High-density, carbon-neutral power generation with unique temporal asymmetries. Examines uranium resources, operational characteristics, waste management horizons, and the trade-off between atmospheric risk and intergenerational stewardship.
 
@@ -63,7 +61,7 @@ High-density, carbon-neutral power generation with unique temporal asymmetries. 
 
 ### [Steam Machines](06_steam_machines/)
 
-![Steam engines and turbines](06_steam_machines/06_steam_machines.png)
+[![Steam engines and turbines](06_steam_machines/06_steam_machines.png)](06_steam_machines/)
 
 The mechanical backbone of modern power generation. Steam turbines remain central to nuclear, geothermal, solar thermal, and biomass electricity—the climate question is not the machine, but what heats the water. Compares reciprocating engines (4-10% efficiency) with modern turbines (35-50%), examining why 19th-century physics still shapes 21st-century climate outcomes.
 
@@ -71,7 +69,7 @@ The mechanical backbone of modern power generation. Steam turbines remain centra
 
 ### [Hydropower](07_hydro/)
 
-![Hydropower systems](07_hydro/07_hydro.png)
+[![Hydropower systems](07_hydro/07_hydro.png)](07_hydro/)
 
 The oldest large-scale renewable technology. Explores dam-based and run-of-river systems, seasonal storage, ecological impacts on river ecosystems, and the role of hydropower in grid stability.
 
@@ -79,7 +77,7 @@ The oldest large-scale renewable technology. Explores dam-based and run-of-river
 
 ### [Solar Power](08_solar/)
 
-![Solar energy](08_solar/08_solar.png)
+[![Solar energy](08_solar/08_solar.png)](08_solar/)
 
 Photovoltaic and thermal solar technologies. Covers silicon-based panels, efficiency improvements, grid integration challenges, and why solar has become the fastest-growing energy source globally.
 
@@ -87,7 +85,7 @@ Photovoltaic and thermal solar technologies. Covers silicon-based panels, effici
 
 ### [Wind Power](09_wind/)
 
-![Wind energy](09_wind/wind.png)
+[![Wind energy](09_wind/wind.png)](09_wind/)
 
 Onshore and offshore wind energy. Examines turbine technology, capacity factors, land use efficiency, wildlife interactions, and the role of wind in decarbonizing electricity grids.
 
@@ -95,7 +93,7 @@ Onshore and offshore wind energy. Examines turbine technology, capacity factors,
 
 ### [Heat Pumps](10_heat_pumps/)
 
-![Heat pump technology](10_heat_pumps/10_heat_pumps.png)
+[![Heat pump technology](10_heat_pumps/10_heat_pumps.png)](10_heat_pumps/)
 
 Moving heat instead of making it. Explains thermodynamic principles, coefficient of performance, and why heat pumps are one of the highest-impact climate technologies available to individuals. Shows how electrifying heating can cut building emissions by 50-75%.
 
@@ -103,7 +101,7 @@ Moving heat instead of making it. Explains thermodynamic principles, coefficient
 
 ### [Nuclear Fusion](11_fusion/)
 
-![Fusion energy](11_fusion/11_fusion.png)
+[![Fusion energy](11_fusion/11_fusion.png)](11_fusion/)
 
 The "holy grail" of energy research. Examines deuterium-tritium reactions, plasma physics challenges, and why fusion remains decades away despite extraordinary promise. Clarifies fusion's role as a future backbone technology rather than an excuse to delay current action.
 
@@ -111,7 +109,7 @@ The "holy grail" of energy research. Examines deuterium-tritium reactions, plasm
 
 ### [Hydrogen](12_hydrogen/)
 
-![Hydrogen energy](12_hydrogen/12_hydrogen.png)
+[![Hydrogen energy](12_hydrogen/12_hydrogen.png)](12_hydrogen/)
 
 An energy carrier, not an energy source. Hydrogen produces no CO2 when used, but its climate value depends entirely on production method—gray (fossil), blue (with carbon capture), or green (renewable electrolysis). Best suited for hard-to-electrify sectors like steel, chemicals, and long-haul transport rather than everyday energy use.
 

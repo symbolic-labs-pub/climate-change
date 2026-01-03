@@ -4,8 +4,6 @@ Climate change is often framed as a global problem requiring global solutions—
 
 This essay explains the logic behind those actions.
 
-![01_at-home.png](01_at-home.png)
-
 ---
 
 ## 1. Climate Change Is a Systems Failure, Not a Moral One

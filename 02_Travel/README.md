@@ -31,7 +31,7 @@ Compares private and cargo transportation by energy intensity and emissions. Exa
 
 ### [Energy and Batteries](02_energy/)
 
-[![Energy density and storage](02_energy/02_energy.png)](01_transport/)
+[![Energy density and storage](02_energy/02_energy.png)](02_energy/)
 
 Explores energy density constraints across fuels and batteries. Explains why fossil fuels dominate long-haul transport despite electrification advantages. Details LFP, NMC, and emerging battery chemistries that power modern electric vehicles.
 
@@ -47,7 +47,7 @@ A systems comparison of internal combustion engines and electric motors. Covers 
 
 ### [Travel Green, Preserve the Scene](04_scene/)
 
-[![Sustainable travel practices](04_scene/04_scene.png)(04_scene/)
+[![Sustainable travel practices](04_scene/04_scene.png)](04_scene/)
 
 Examines travel through an ecological lens. Connects mobility choices to local ecosystems, resource use, and community resilience. Shows how individual travel decisions—buying local, choosing low-impact transport, respecting natural limits—reduce both emissions and ecological disturbance.
 
