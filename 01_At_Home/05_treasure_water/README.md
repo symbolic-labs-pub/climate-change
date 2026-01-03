@@ -81,9 +81,9 @@ These actions appear small at the individual level, yet they scale through share
 
 Gray water systems capture lightly used water from sinks or showers and reuse it for toilets or irrigation. This reduces freshwater extraction and wastewater treatment simultaneously. While not suitable for drinking, gray water reuse can significantly reduce household water footprints where plumbing allows.
 
-### Solar thermal water heating
+### [Solar thermal water heating](../../03_Energy_Sources/08_solar/)
 
-Solar thermal panels convert sunlight directly into heat, storing it in insulated tanks for domestic use. Unlike photovoltaic systems that must pass through electrical conversion, solar thermal achieves high efficiency with minimal losses. Where deployed, it can replace a large share of fossil-based water heating.
+[Solar thermal](../../03_Energy_Sources/08_solar/) panels convert sunlight directly into heat, storing it in insulated tanks for domestic use. Unlike photovoltaic systems that must pass through electrical conversion, solar thermal achieves high efficiency with minimal losses. Where deployed, it can replace a large share of fossil-based water heating.
 
 These solutions illustrate how **local loops** reduce dependence on centralized, energy-intensive infrastructure.
 

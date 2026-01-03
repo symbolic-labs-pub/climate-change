@@ -20,11 +20,11 @@ Climate action operates across multiple scales, but individual influence concent
 
 The home is where individual choices most directly affect material and energy flows. This section examines five key intervention points:
 
-- **Selective waste sorting** — preserving material integrity for recycling
-- **Timing energy use** — aligning consumption with solar generation peaks
-- **Organic and local food** — reducing fossil nitrogen dependency
-- **Natural materials** — avoiding irreversible microplastic pollution
-- **Water conservation** — understanding the energy embedded in every liter
+- **[Selective waste sorting](01_At_Home/01_why_selective_trash/)** — preserving material integrity for recycling
+- **[Timing energy use](01_At_Home/02_use_appliances_at_sunlight/)** — aligning consumption with solar generation peaks
+- **[Organic and local food](01_At_Home/03_go_organic/)** — reducing fossil nitrogen dependency
+- **[Natural materials](01_At_Home/04_prefer_natural_materials/)** — avoiding irreversible microplastic pollution
+- **[Water conservation](01_At_Home/05_treasure_water/)** — understanding the energy embedded in every liter
 
 These actions work not because they are virtuous, but because they reduce pressure on systems already operating beyond sustainable limits.
 
@@ -36,11 +36,11 @@ These actions work not because they are virtuous, but because they reduce pressu
 
 Transportation accounts for approximately 24% of global CO2 emissions and is one of the fastest-growing emission sources. This section analyzes mobility through the lens of physics:
 
-- **Transport modes** — comparing rail, bus, car, and aviation by efficiency
-- **Energy density** — why batteries work for cars but not yet for planes
-- **Engine systems** — thermodynamic efficiency of combustion vs. electric motors
-- **Sustainable travel** — ecological dimensions of how we move
-- **Turbine technology** — engineering perspectives on propulsion
+- **[Transport modes](02_Travel/01_transport/)** — comparing rail, bus, car, and aviation by efficiency
+- **[Energy density](02_Travel/02_energy/)** — why batteries work for cars but not yet for planes
+- **[Engine systems](02_Travel/03_engines/)** — thermodynamic efficiency of combustion vs. electric motors
+- **[Sustainable travel](02_Travel/04_scene/)** — ecological dimensions of how we move
+- **[Turbine technology](03_Energy_Sources/06_steam_machines/)** — engineering perspectives on propulsion
 
 Mode choice often matters more than distance traveled. A 1,000 km train journey can emit less than a 100 km car trip.
 
@@ -52,13 +52,13 @@ Mode choice often matters more than distance traveled. A 1,000 km train journey 
 
 Every energy choice shapes climate trajectories across timescales from seconds to millennia. This section compares energy systems from human power to nuclear fusion:
 
-- **Source comparison** — stocks vs. flows, carbon intensity, reversibility
-- **Human power** — zero-emission mobility within biological limits
-- **Fossil fuels** — high density, irreversible atmospheric release
-- **Renewables** — solar, wind, and hydro as flow-based systems
-- **Nuclear fission** — carbon-neutral with intergenerational responsibilities
-- **Heat pumps** — moving heat instead of making it
-- **Fusion** — the long-term promise and current limitations
+- **[Source comparison](03_Energy_Sources/01_sources/)** — stocks vs. flows, carbon intensity, reversibility
+- **[Human power](03_Energy_Sources/02_human/)** — zero-emission mobility within biological limits
+- **[Fossil fuels](03_Energy_Sources/03_fossil/)** — high density, irreversible atmospheric release
+- **[Renewables](03_Energy_Sources/04_renewables/)** — [solar](03_Energy_Sources/08_solar/), [wind](03_Energy_Sources/09_wind/), and [hydro](03_Energy_Sources/07_hydro/) as flow-based systems
+- **[Nuclear fission](03_Energy_Sources/05_nuclear/)** — carbon-neutral with intergenerational responsibilities
+- **[Heat pumps](03_Energy_Sources/10_heat_pumps/)** — moving heat instead of making it
+- **[Fusion](03_Energy_Sources/11_fusion/)** — the long-term promise and current limitations
 
 Understanding these trade-offs enables informed choices about the energy systems that will power the 21st century.
 
@@ -99,7 +99,7 @@ Navigate by interest:
 - **Start with systems thinking**: [Comparing Energy Sources](03_Energy_Sources/01_sources/)
 - **Focus on personal action**: [At Home](01_At_Home/)
 - **Understand transportation**: [Travel](02_Travel/)
-- **Explore specific technologies**: Heat pumps, solar, EVs in their respective sections
+- **Explore specific technologies**: [Heat pumps](03_Energy_Sources/10_heat_pumps/), [solar](03_Energy_Sources/08_solar/), [EVs](02_Travel/03_engines/) in their respective sections
 
 ---
 

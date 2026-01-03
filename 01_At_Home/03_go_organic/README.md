@@ -16,7 +16,7 @@ The cornerstone is synthetic nitrogen fertilizer, produced via the **Haber–Bos
 * High pressures
 * Hydrogen, almost always derived from fossil natural gas
 
-Globally, nitrogen fertilizer production consumes a significant share of industrial natural gas and accounts for a substantial portion of agricultural greenhouse gas emissions. This makes food production not only energy-intensive, but **fossil-dependent at a chemical level**.
+Globally, nitrogen fertilizer production consumes a significant share of industrial [natural gas](../../03_Energy_Sources/03_fossil/) and accounts for a substantial portion of agricultural greenhouse gas emissions. This makes food production not only energy-intensive, but **fossil-dependent at a chemical level**.
 
 ---
 
@@ -38,9 +38,9 @@ As long as nitrogen fertilizer is fossil-derived, large-scale monoculture farmin
 
 Industrial agriculture is optimized for scale, uniformity, and predictability. Its typical structure looks like this:
 
-* Fossil fuels → fertilizer production
+* [Fossil fuels](../../03_Energy_Sources/03_fossil/) → fertilizer production
 * Fertilizer → monoculture crop systems
-* Crops → long-distance logistics
+* Crops → long-distance [logistics](../../02_Travel/01_transport/)
 * Processing → packaging → global distribution
 
 This system excels at producing large quantities of inexpensive calories. However, it is brittle. It depends on stable fossil energy prices, global logistics, and externalized environmental costs.
@@ -56,7 +56,7 @@ Organic agriculture is often misunderstood as “natural” or “impact-free.�
 Organic systems:
 
 * Avoid synthetic nitrogen fertilizer
-* Rely on compost, manure, crop rotation, and nitrogen-fixing plants (e.g. legumes)
+* Rely on [compost](../01_why_selective_trash/#31-organic-waste-the-biological-loop), manure, crop rotation, and nitrogen-fixing plants (e.g. legumes)
 * Use biological nutrient cycles rather than industrial ones
 
 This reduces fossil inputs substantially, but introduces trade-offs:

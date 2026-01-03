@@ -12,10 +12,10 @@ This essay explains the logic behind those actions.
 
 At its core, climate change arises from **misaligned cycles**:
 
-* Materials are extracted but not returned.
-* Energy is produced when it is most polluting, not when it is cleanest.
-* Food is grown using fossil chemistry rather than biological cycles.
-* Water is treated as infinite despite being energetically expensive.
+* Materials are extracted but not returned. → [Waste sorting](01_why_selective_trash/)
+* Energy is produced when it is most polluting, not when it is cleanest. → [Energy timing](02_use_appliances_at_sunlight/)
+* Food is grown using fossil chemistry rather than biological cycles. → [Organic food](03_go_organic/)
+* Water is treated as infinite despite being energetically expensive. → [Water conservation](05_treasure_water/)
 
 None of these failures are caused by individual malice. They are consequences of systems optimized for short-term efficiency rather than long-term stability. Individuals cannot fix the system alone—but they can reduce the pressure placed upon it by acting where their decisions intersect directly with physical processes.
 
@@ -27,7 +27,7 @@ When waste is mixed, it becomes chemically and economically unrecoverable. When 
 
 Organic waste, when landfilled, produces methane—one of the most potent greenhouse gases. When composted or digested, it returns carbon to soil or produces usable biogas. Glass and metals, when properly separated, can be recycled almost indefinitely with far lower energy than virgin production. Paper fibers can be reused several times before returning safely to the biosphere.
 
-Plastics are the exception. Even when recycled, most plastics degrade in quality and eventually fragment into microplastics—particles now found in oceans, soil, air, and human bloodstreams. There is no known technological solution for removing microplastics at scale. The only effective intervention is **source reduction**.
+Plastics are the exception. Even when recycled, most plastics degrade in quality and eventually fragment into [microplastics](04_prefer_natural_materials/)—particles now found in oceans, soil, air, and human bloodstreams. There is no known technological solution for removing microplastics at scale. The only effective intervention is **source reduction**.
 
 Waste separation works not because it is virtuous, but because it preserves **material integrity**.
 
@@ -35,7 +35,7 @@ Waste separation works not because it is virtuous, but because it preserves **ma
 
 ## 3. Energy Use Is Not Just About How Much — But When
 
-Electricity is not equally clean at all hours. Increasingly, the cleanest electricity is produced **during the day**, when solar generation peaks. Yet most households still consume energy without regard to timing, because pricing and billing systems lag behind infrastructure reality.
+Electricity is not equally clean at all hours. Increasingly, the cleanest electricity is produced **during the day**, when [solar](../03_Energy_Sources/08_solar/) generation peaks. Yet most households still consume energy without regard to timing, because pricing and billing systems lag behind infrastructure reality.
 
 Running appliances—washing machines, dishwashers, cooking equipment—during daylight hours aligns consumption with low-carbon supply. Even if household bills do not yet reflect this benefit, the grid does. This reduces reliance on fossil “peaker plants,” smooths demand curves, and increases the share of renewables the system can absorb.
 
@@ -69,7 +69,7 @@ Choosing natural materials wherever possible is not nostalgia—it is **risk con
 
 Every liter of treated water carries an energy cost: extraction, purification, pumping, heating, and wastewater treatment. In many regions, water systems are among the largest electricity consumers.
 
-Simple actions—turning off taps while brushing teeth, limiting shower duration—reduce demand across the entire water lifecycle. More advanced solutions, such as gray water reuse and solar thermal water heating, further decouple water use from fossil energy.
+Simple actions—turning off taps while brushing teeth, limiting shower duration—reduce demand across the entire water lifecycle. More advanced solutions, such as gray water reuse and [solar thermal water heating](../03_Energy_Sources/08_solar/), further decouple water use from fossil energy.
 
 Water is renewable in theory, but **energy-limited in practice**.
 
@@ -79,7 +79,7 @@ Water is renewable in theory, but **energy-limited in practice**.
 
 The most powerful climate action an individual can take is not behavioral—it is architectural.
 
-Buildings lose energy primarily through heat. Insulation reduces demand permanently, often for decades. Heat recovery ventilation allows fresh air without discarding thermal energy. Electrifying heating through heat pumps replaces combustion with systems that move heat rather than generate it, often delivering three to five units of heat per unit of electricity.
+Buildings lose energy primarily through heat. Insulation reduces demand permanently, often for decades. Heat recovery ventilation allows fresh air without discarding thermal energy. Electrifying heating through [heat pumps](../03_Energy_Sources/10_heat_pumps/) replaces combustion with systems that move heat rather than generate it, often delivering three to five units of heat per unit of electricity.
 
 Critically, electrification only works well when paired with insulation. Producing clean energy while wasting it is not progress—it is inefficiency disguised as innovation.
 
@@ -87,8 +87,8 @@ The correct sequence is simple:
 
 1. Reduce demand (insulation)
 2. Preserve quality (heat recovery)
-3. Decarbonize supply (electrification)
-4. Add renewables
+3. Decarbonize supply ([electrification](../03_Energy_Sources/10_heat_pumps/))
+4. Add [renewables](../03_Energy_Sources/04_renewables/)
 
 ---
 

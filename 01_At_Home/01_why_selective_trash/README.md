@@ -20,9 +20,9 @@ Thus, selective waste sorting is best understood as **pre-processing**—the fir
 
 All recycling systems share a common vulnerability: **contamination**.
 
-* Food residues ruin paper fibers.
-* Ceramics ruin glass melts.
-* Mixed polymers ruin plastic extrusion.
+* Food residues ruin [paper](#32-paper-and-cardboard-managed-fiber-circulation) fibers.
+* Ceramics ruin [glass](#33-glass-a-true-closed-material-loop) melts.
+* Mixed polymers ruin [plastic](#35-plastics-polymer-physics-and-the-limits-of-recycling) extrusion.
 * Batteries introduce fire risk and toxic metals.
 * Hazardous chemicals poison entire batches.
 
@@ -99,7 +99,7 @@ When polymers are mixed:
 
 Chemical recycling technologies exist, but remain energy-intensive and limited in scale. As a result, global plastic recycling rates remain low, and much plastic is landfilled, incinerated, or mismanaged.
 
-From a climate and risk perspective, plastic sorting is necessary but insufficient; **plastic avoidance** remains the most effective strategy.
+From a climate and risk perspective, plastic sorting is necessary but insufficient; **[plastic avoidance](../04_prefer_natural_materials/)** remains the most effective strategy.
 
 ---
 

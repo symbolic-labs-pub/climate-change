@@ -66,7 +66,7 @@ The remainder in combustion engines is lost as heat through:
 
 Electric motors generate far less waste heat and can recover energy through **regenerative braking**, something fundamentally impossible for combustion systems.
 
-From a climate perspective, this means electric vehicles require **much less primary energy** to perform the same transport work.
+From a climate perspective, this means electric vehicles require **much less [primary energy](../02_energy/)** to perform the same transport work.
 
 ---
 

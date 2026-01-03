@@ -10,7 +10,7 @@ Energy choices define civilization's relationship with the climate. Every watt g
 
 Climate stability does not require energy abstinence—it requires **energy transition**. The critical question is not "how much energy?" but "from where?" Energy sources differ along several dimensions that matter for climate:
 
-* **Stocks vs. flows:** Fossil fuels deplete; sun and wind persist
+* **Stocks vs. flows:** [Fossil fuels](03_fossil/) deplete; [sun](08_solar/) and [wind](09_wind/) persist
 * **Carbon intensity:** CO2 released per unit of useful energy
 * **Reversibility:** Can impacts be undone within human timescales?
 * **System lock-in:** How long do infrastructure decisions bind future choices?
@@ -119,11 +119,11 @@ An energy carrier, not an energy source. Hydrogen produces no CO2 when used, but
 
 ## Key Insights
 
-1. **Stocks deplete; flows persist**: Fossil fuels are finite; solar and wind are effectively inexhaustible
+1. **Stocks deplete; flows persist**: [Fossil fuels](03_fossil/) are finite; [solar](08_solar/) and [wind](09_wind/) are effectively inexhaustible
 2. **Carbon intensity is not the only metric**: Reversibility, waste streams, and ecological integration matter
 3. **No single source solves everything**: Climate-resilient systems combine multiple energy sources
-4. **Electrification enables decarbonization**: Heat pumps, EVs, and electric industry can shift energy from combustion to clean grids
-5. **Time horizons vary dramatically**: Some energy choices bind societies for decades (nuclear) or millennia (waste)
+4. **Electrification enables decarbonization**: [Heat pumps](10_heat_pumps/), [EVs](../02_Travel/03_engines/), and electric industry can shift energy from combustion to clean grids
+5. **Time horizons vary dramatically**: Some energy choices bind societies for decades ([nuclear](05_nuclear/)) or millennia (waste)
 
 ---
 
@@ -131,7 +131,7 @@ An energy carrier, not an energy source. Hydrogen produces no CO2 when used, but
 
 Global energy emissions reached a record 38.1 GtCO2 in 2025, pushing atmospheric CO2 to 425.7 ppm—52% above pre-industrial levels. The remaining carbon budget for 1.5°C warming is approximately 170 GtCO2, equivalent to roughly four years at current emission rates.
 
-Yet the energy transition is accelerating. Solar and wind now provide the cheapest new electricity in most markets. Heat pump installations are growing rapidly. Electric vehicle adoption is reshaping transportation. The question is no longer whether energy systems will change, but whether they will change fast enough.
+Yet the energy transition is accelerating. [Solar](08_solar/) and [wind](09_wind/) now provide the cheapest new electricity in most markets. [Heat pump](10_heat_pumps/) installations are growing rapidly. [Electric vehicle](../02_Travel/03_engines/) adoption is reshaping transportation. The question is no longer whether energy systems will change, but whether they will change fast enough.
 
 Understanding energy sources—their physics, their trade-offs, their long-term consequences—is essential for navigating this transition wisely.
 

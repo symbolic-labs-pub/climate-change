@@ -13,7 +13,7 @@ Transportation is one of the largest and fastest-growing sources of greenhouse g
 All transportation reduces to a single physical task: **moving mass over distance**.
 The climate impact of this task depends on:
 
-* **Energy density** of the fuel (energy per unit mass or volume)
+* **[Energy density](../02_energy/)** of the fuel (energy per unit mass or volume)
 * **Efficiency** of converting that energy into motion
 * **Load factor** (people or cargo moved per vehicle)
 * **Infrastructure losses** (rolling resistance, drag, congestion)
@@ -46,8 +46,8 @@ High energy density enables long range and high speed—but also locks in fossil
 
 * Steel-on-steel rolling resistance is minimal
 * High passenger capacity
-* Electric drivetrains are highly efficient
-* Can be powered by renewables
+* [Electric drivetrains](../03_engines/) are highly efficient
+* Can be powered by [renewables](../../03_Energy_Sources/04_renewables/)
 
 Per passenger-kilometer, electrified rail is among the **lowest-emission transport modes available**.
 
@@ -58,7 +58,7 @@ Magnetic and high-speed electric rail increase speed but retain efficiency throu
 ### 3.2 Buses (Moderate Impact, Highly Variable)
 
 * Diesel buses emit less per person than cars **only when well utilized**
-* Electric buses significantly reduce emissions and local pollution
+* [Electric buses](../03_engines/) significantly reduce emissions and local pollution
 * Emissions depend strongly on occupancy and route efficiency
 
 A full bus can outperform cars by an order of magnitude; an empty bus cannot.
@@ -73,7 +73,7 @@ Cars suffer from three structural inefficiencies:
 2. Low average occupancy
 3. Stop-and-go urban driving losses
 
-Even efficient internal combustion cars emit significantly more per person than public transport. Electric cars reduce tailpipe emissions, but still:
+Even efficient internal combustion cars emit significantly more per person than public transport. [Electric cars](../03_engines/) reduce tailpipe emissions, but still:
 
 * Require large material inputs
 * Depend on grid carbon intensity

@@ -8,7 +8,7 @@ Space heating, cooling, and hot water account for a large share of global energy
 
 ## 1. Heating as a Climate Problem
 
-Globally, heating and cooling represent a major portion of final energy demand. Traditional systems—gas boilers, oil furnaces, and coal-based district heating—produce heat by burning fossil fuels. This approach is inherently carbon-intensive because:
+Globally, heating and cooling represent a major portion of final energy demand. Traditional systems—gas boilers, oil furnaces, and coal-based district heating—produce heat by burning [fossil fuels](../03_fossil/). This approach is inherently carbon-intensive because:
 
 * Combustion releases fossil carbon directly into the atmosphere
 * Efficiency is limited by thermodynamic losses
@@ -63,11 +63,11 @@ Heat pumps draw from **ubiquitous, low-grade thermal reservoirs**:
 
 * **Air-source:** ambient outdoor air
 * **Ground-source (geothermal):** stable subsurface temperatures
-* **Water-source:** lakes, rivers, or groundwater
+* **Water-source:** lakes, rivers, or [groundwater](../../01_At_Home/05_treasure_water/)
 
 These sources are:
 
-* Continuously replenished by solar energy and geothermal heat
+* Continuously replenished by [solar energy](../08_solar/) and geothermal heat
 * Available almost everywhere
 * Not depleted by use
 
