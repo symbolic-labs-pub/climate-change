@@ -1,6 +1,6 @@
 # Understanding Climate Change: Systems, Actions, and Solutions
 
-Climate change is the defining challenge of the 21st century. In 2025, atmospheric CO2 reached 425.7 ppm—52% above pre-industrial levels—while fossil fuel emissions hit a record 38.1 billion tonnes. The remaining carbon budget to limit warming to 1.5°C stands at approximately 170 GtCO2, equivalent to roughly four years at current emission rates. These numbers are not abstractions; they describe physical processes that will shape ecosystems, economies, and human societies for centuries.
+Climate change is the defining challenge of the 21st century. In early 2026, atmospheric CO2 reached 425.7 ppm—52% above pre-industrial levels—while fossil fuel emissions hit a record 38.1 billion tonnes. The remaining carbon budget to limit warming to 1.5°C stands at approximately 170 GtCO2, equivalent to roughly four years at current emission rates. These numbers are not abstractions; they describe physical processes that will shape ecosystems, economies, and human societies for centuries.
 
 ![climate_change_overview.png](climate_change_overview.png)
 
@@ -77,7 +77,7 @@ This repository is built on several analytical foundations:
 
 ---
 
-## Current Climate Context (2025)
+## Current Climate Context (early 2026)
 
 | Metric | Value | Significance |
 |--------|-------|--------------|

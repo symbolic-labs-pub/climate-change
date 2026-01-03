@@ -63,7 +63,7 @@ Examines travel through an ecological lens. Connects mobility choices to local e
 
 ---
 
-## Current Context (2025)
+## Current Context (early 2026)
 
 Global transportation emissions continue to rise, driven by expanding [aviation](01_transport/) and freight. However, [electric vehicle](03_engines/) adoption is accelerating, with EVs now representing over 20% of new car sales in major markets. The remaining 1.5°C carbon budget—approximately 170 GtCO2—makes rapid transport decarbonization essential.
 

@@ -125,9 +125,9 @@ An energy carrier, not an energy source. Hydrogen produces no CO2 when used, but
 
 ---
 
-## Current Context (2025)
+## Current Context (early 2026)
 
-Global energy emissions reached a record 38.1 GtCO2 in 2025, pushing atmospheric CO2 to 425.7 ppm—52% above pre-industrial levels. The remaining carbon budget for 1.5°C warming is approximately 170 GtCO2, equivalent to roughly four years at current emission rates.
+Global energy emissions reached a record 38.1 GtCO2 in early 2026, pushing atmospheric CO2 to 425.7 ppm—52% above pre-industrial levels. The remaining carbon budget for 1.5°C warming is approximately 170 GtCO2, equivalent to roughly four years at current emission rates.
 
 Yet the energy transition is accelerating. [Solar](08_solar/) and [wind](09_wind/) now provide the cheapest new electricity in most markets. [Heat pump](10_heat_pumps/) installations are growing rapidly. [Electric vehicle](../02_Travel/03_engines/) adoption is reshaping transportation. The question is no longer whether energy systems will change, but whether they will change fast enough.
 
