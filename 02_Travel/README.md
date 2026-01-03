@@ -6,8 +6,6 @@ Transportation accounts for approximately 24% of global CO2 emissions and remain
 
 ## The Physics of Movement
 
-![01_transport.png](01_transport/01_transport.png)
-
 Every journey is fundamentally an energy-conversion problem. Vehicles must overcome rolling resistance, aerodynamic drag, and gravity while accelerating mass over distance. The climate impact of this work depends on:
 
 * **Energy carrier** ([fossil fuel](../03_Energy_Sources/03_fossil/) vs. [electricity](02_energy/))
