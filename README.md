@@ -58,6 +58,7 @@ Every energy choice shapes climate trajectories across timescales from seconds t
 - **[Renewables](03_Energy_Sources/04_renewables/)** — [solar](03_Energy_Sources/08_solar/), [wind](03_Energy_Sources/09_wind/), and [hydro](03_Energy_Sources/07_hydro/) as flow-based systems
 - **[Nuclear fission](03_Energy_Sources/05_nuclear/)** — carbon-neutral with intergenerational responsibilities
 - **[Heat pumps](03_Energy_Sources/10_heat_pumps/)** — moving heat instead of making it
+- **[Hydrogen](03_Energy_Sources/12_hydrogen/)** — energy carrier for hard-to-electrify sectors
 - **[Fusion](03_Energy_Sources/11_fusion/)** — the long-term promise and current limitations
 
 Understanding these trade-offs enables informed choices about the energy systems that will power the 21st century.
