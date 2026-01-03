@@ -21,7 +21,9 @@ None of these failures are caused by individual malice. They are consequences of
 
 ---
 
-## 2. Waste Is Not Garbage — It Is Misplaced Matter
+## [2. Waste Is Not Garbage — It Is Misplaced Matter](01_why_selective_trash)
+
+[![02_why_selective_trash.png](01_why_selective_trash/02_why_selective_trash.png)](01_why_selective_trash)
 
 When waste is mixed, it becomes chemically and economically unrecoverable. When separated, it re-enters either **biological cycles** (biomass) or **technical cycles** (glass, metals, paper).
 
@@ -33,7 +35,9 @@ Waste separation works not because it is virtuous, but because it preserves **ma
 
 ---
 
-## 3. Energy Use Is Not Just About How Much — But When
+## [3. Energy Use Is Not Just About How Much — But When](02_use_appliances_at_sunlight)
+
+ [![02_use_appliances_at_sunlight.png](02_use_appliances_at_sunlight/02_use_appliances_at_sunlight.png)](02_use_appliances_at_sunlight)
 
 Electricity is not equally clean at all hours. Increasingly, the cleanest electricity is produced **during the day**, when [solar](../03_Energy_Sources/08_solar/) generation peaks. Yet most households still consume energy without regard to timing, because pricing and billing systems lag behind infrastructure reality.
 
@@ -43,7 +47,9 @@ Climate impact is governed by **temporal alignment**, not just efficiency.
 
 ---
 
-## 4. Food Is Energy, Chemistry, and Logistics Combined
+## [4. Food Is Energy, Chemistry, and Logistics Combined](03_go_organic)
+
+[![03_go_organic.png](03_go_organic/03_go_organic.png)](03_go_organic)
 
 Modern industrial agriculture depends heavily on synthetic nitrogen fertilizer, produced almost exclusively using fossil natural gas through the Haber–Bosch process. This single step accounts for a significant share of global emissions and introduces reactive nitrogen into ecosystems, disrupting water systems and soil biology.
 
@@ -55,7 +61,9 @@ Food choices matter not because of ideology, but because agriculture is one of t
 
 ---
 
-## 5. Plastics Break the Carbon Cycle Permanently
+## [5. Plastics Break the Carbon Cycle Permanently](04_prefer_natural_materials)
+
+[![04_prefer_natural_materials.png](04_prefer_natural_materials/04_prefer_natural_materials.png)](04_prefer_natural_materials)
 
 Wood, paper, and natural fibers participate in the carbon cycle: they grow, decay, and return carbon to the biosphere. Plastics do not. They are carbon extracted from geological time and scattered into ecological time, where it does not belong.
 
@@ -65,7 +73,9 @@ Choosing natural materials wherever possible is not nostalgia—it is **risk con
 
 ---
 
-## 6. Water Conservation Is Energy Conservation
+## [6. Water Conservation Is Energy Conservation](05_treasure_water)
+
+[![05_treasure_water.png](05_treasure_water/05_treasure_water.png)](05_treasure_water)
 
 Every liter of treated water carries an energy cost: extraction, purification, pumping, heating, and wastewater treatment. In many regions, water systems are among the largest electricity consumers.
 
