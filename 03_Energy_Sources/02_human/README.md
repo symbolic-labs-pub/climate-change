@@ -146,4 +146,10 @@ In the transition to a sustainable future, some of the most powerful solutions a
 
 ---
 
+| | |
+|:--|--:|
+| [< previous \| Comparing Energy Sources](../01_sources/) | [Fossil Fuels \| next >](../03_fossil/) |
+
+---
+
 **source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)

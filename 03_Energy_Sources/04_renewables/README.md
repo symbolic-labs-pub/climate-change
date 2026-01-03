@@ -141,4 +141,10 @@ A bright future is not defined by energy scarcity, but by energy wisdom—using 
 
 ---
 
+| | |
+|:--|--:|
+| [< previous \| Fossil Fuels](../03_fossil/) | [Nuclear Fission \| next >](../05_nuclear/) |
+
+---
+
 **source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)

@@ -165,4 +165,10 @@ A stable climate future will be built not by burning more fuel, but by **moving 
 
 ---
 
+| | |
+|:--|--:|
+| [< previous \| Wind Power](../09_wind/) | [Nuclear Fusion \| next >](../11_fusion/) |
+
+---
+
 **source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)

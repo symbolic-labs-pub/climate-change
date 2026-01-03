@@ -187,4 +187,10 @@ Climate reversal is not achieved by eliminating energy use, but by **choosing th
 
 ---
 
+| | |
+|:--|--:|
+| [< previous \| Human Power](../02_human/) | [Renewable Energy \| next >](../04_renewables/) |
+
+---
+
 **source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)

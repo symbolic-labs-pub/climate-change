@@ -189,4 +189,10 @@ Reversing climate change does not require a single perfect energy source. It req
 
 ---
 
+| | |
+|:--|--:|
+| [< previous \| Energy Sources](../) | [Human Power \| next >](../02_human/) |
+
+---
+
 **source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)

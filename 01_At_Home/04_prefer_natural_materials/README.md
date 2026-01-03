@@ -134,4 +134,10 @@ In climate action, the most powerful choices are often those that prevent irreve
 
 ---
 
+| | |
+|:--|--:|
+| [< previous \| Organic Food](../03_go_organic/) | [Water Conservation \| next >](../05_treasure_water/) |
+
+---
+
 **source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)

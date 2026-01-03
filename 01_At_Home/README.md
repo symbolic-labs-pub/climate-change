@@ -123,4 +123,10 @@ The future depends less on what we promise, and more on how well we understand t
 
 ---
 
+| | |
+|:--|--:|
+| [< previous \| Home](../) | [Selective Waste Sorting \| next >](01_why_selective_trash/) |
+
+---
+
 **source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)

@@ -174,4 +174,10 @@ A bright future is not built by betting on a single breakthrough, but by **combi
 
 ---
 
+| | |
+|:--|--:|
+| [< previous \| Heat Pumps](../10_heat_pumps/) | [Hydrogen \| next >](../12_hydrogen/) |
+
+---
+
 **source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)

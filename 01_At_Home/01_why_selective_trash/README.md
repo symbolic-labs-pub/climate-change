@@ -162,4 +162,10 @@ The only remaining variable is whether materials enter it in the right form.
 
 ---
 
+| | |
+|:--|--:|
+| [< previous \| At Home](../) | [Energy Timing \| next >](../02_use_appliances_at_sunlight/) |
+
+---
+
 **source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)

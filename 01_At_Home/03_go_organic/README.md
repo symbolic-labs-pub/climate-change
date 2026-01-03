@@ -138,4 +138,10 @@ In climate mitigation, progress often comes not from perfect solutions, but from
 
 ---
 
+| | |
+|:--|--:|
+| [< previous \| Energy Timing](../02_use_appliances_at_sunlight/) | [Natural Materials \| next >](../04_prefer_natural_materials/) |
+
+---
+
 **source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)

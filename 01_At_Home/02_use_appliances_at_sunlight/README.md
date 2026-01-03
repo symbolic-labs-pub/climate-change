@@ -133,4 +133,10 @@ In a world transitioning to renewable energy, timing becomes as important as eff
 
 ---
 
+| | |
+|:--|--:|
+| [< previous \| Selective Waste Sorting](../01_why_selective_trash/) | [Organic Food \| next >](../03_go_organic/) |
+
+---
+
 **source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)

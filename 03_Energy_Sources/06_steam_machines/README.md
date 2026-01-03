@@ -193,4 +193,10 @@ but the steam that spins them will come from the Sun, the Earth, and clean nucle
 
 ---
 
+| | |
+|:--|--:|
+| [< previous \| Nuclear Fission](../05_nuclear/) | [Hydropower \| next >](../07_hydro/) |
+
+---
+
 **source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)

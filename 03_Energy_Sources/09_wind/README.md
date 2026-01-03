@@ -160,4 +160,10 @@ In a stable climate future, the wind does not just move air. It moves civilizati
 
 ---
 
+| | |
+|:--|--:|
+| [< previous \| Solar Power](../08_solar/) | [Heat Pumps \| next >](../10_heat_pumps/) |
+
+---
+
 **source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)

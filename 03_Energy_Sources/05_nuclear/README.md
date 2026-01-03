@@ -160,4 +160,10 @@ A bright climate future is not achieved by choosing a single energy source, but 
 
 ---
 
+| | |
+|:--|--:|
+| [< previous \| Renewable Energy](../04_renewables/) | [Steam Machines \| next >](../06_steam_machines/) |
+
+---
+
 **source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)

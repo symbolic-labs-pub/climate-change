@@ -203,4 +203,10 @@ In climate terms, how we travel matters more than how far we travel.
 
 ---
 
+| | |
+|:--|--:|
+| [< previous \| Travel](../) | [Energy & Batteries \| next >](../02_energy/) |
+
+---
+
 **source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)

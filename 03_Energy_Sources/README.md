@@ -135,4 +135,10 @@ Understanding energy sources—their physics, their trade-offs, their long-term 
 
 ---
 
+| | |
+|:--|--:|
+| [< previous \| Travel Green](../02_Travel/04_scene/) | [Comparing Energy Sources \| next >](01_sources/) |
+
+---
+
 **source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)

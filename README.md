@@ -114,4 +114,10 @@ This repository offers a framework for understanding where individual and collec
 
 ---
 
+| | |
+|:--|--:|
+| | [At Home \| next >](01_At_Home/) |
+
+---
+
 **source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)

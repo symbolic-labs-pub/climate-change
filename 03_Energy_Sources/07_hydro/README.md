@@ -54,4 +54,10 @@ Hydropower is not impact-free, but its impacts are **bounded, manageable, and re
 
 ---
 
+| | |
+|:--|--:|
+| [< previous \| Steam Machines](../06_steam_machines/) | [Solar Power \| next >](../08_solar/) |
+
+---
+
 **source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)
