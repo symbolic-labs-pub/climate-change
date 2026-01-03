@@ -189,4 +189,4 @@ Reversing climate change does not require a single perfect energy source. It req
 
 ---
 
-**source:** github.com/symbolic-labs-pub
+**source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)

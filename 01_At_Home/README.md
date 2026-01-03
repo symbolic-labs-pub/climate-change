@@ -1,4 +1,4 @@
-# Reversing Climate Change Begins at the System Boundaries
+# [Reversing Climate Change Begins at the System Boundaries](https://github.com/symbolic-labs-pub/climate-change/tree/main/01_At_Home)
 
 Climate change is often framed as a global problem requiring global solutions—and this is true. Yet the mechanisms that drive it operate at very concrete, local boundaries: inside homes, across supply chains, through material flows, and within energy systems that respond to physics rather than intentions. The infographic accompanying this essay visualizes these boundaries and shows how individual actions, when aligned with physical realities, can reduce emissions not symbolically, but structurally.
 
@@ -123,4 +123,4 @@ The future depends less on what we promise, and more on how well we understand t
 
 ---
 
-**source:** github.com/symbolic-labs-pub
+**source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)

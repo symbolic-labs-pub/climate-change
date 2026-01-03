@@ -1,4 +1,4 @@
-# Travel and Transportation: Moving People and Goods Sustainably
+# [Travel and Transportation: Moving People and Goods Sustainably](https://github.com/symbolic-labs-pub/climate-change/tree/main/02_Travel)
 
 Transportation accounts for approximately 24% of global CO2 emissions and remains one of the fastest-growing sources of greenhouse gases. Yet the climate impact of mobility is not inevitable—it is shaped by physics, infrastructure choices, and individual decisions about how we move. This section examines transportation through a systems lens: energy density, conversion efficiency, mode selection, and the structural differences between fossil-fueled and electric systems.
 
@@ -71,4 +71,4 @@ The physics of transportation cannot be negotiated. But the choices we make abou
 
 ---
 
-**source:** github.com/symbolic-labs-pub
+**source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)

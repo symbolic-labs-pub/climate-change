@@ -153,4 +153,4 @@ Supporting solar energy is therefore not only an emissions-reduction strategy, b
 
 ---
 
-**source:** github.com/symbolic-labs-pub
+**source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)

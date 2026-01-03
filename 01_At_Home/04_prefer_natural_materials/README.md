@@ -134,4 +134,4 @@ In climate action, the most powerful choices are often those that prevent irreve
 
 ---
 
-**source:** github.com/symbolic-labs-pub
+**source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)

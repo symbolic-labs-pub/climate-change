@@ -204,4 +204,4 @@ Reversing climate change requires matching solutions to problems. Hydrogen is po
 
 ---
 
-**source:** github.com/symbolic-labs-pub
+**source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)

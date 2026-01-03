@@ -146,4 +146,4 @@ In the transition to a sustainable future, some of the most powerful solutions a
 
 ---
 
-**source:** github.com/symbolic-labs-pub
+**source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)

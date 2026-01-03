@@ -138,4 +138,4 @@ In climate mitigation, progress often comes not from perfect solutions, but from
 
 ---
 
-**source:** github.com/symbolic-labs-pub
+**source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)

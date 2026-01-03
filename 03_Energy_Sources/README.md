@@ -1,4 +1,4 @@
-# Energy Sources: From Human Power to Nuclear Fusion
+# [Energy Sources: From Human Power to Nuclear Fusion](https://github.com/symbolic-labs-pub/climate-change/tree/main/03_Energy_Sources)
 
 Energy choices define civilization's relationship with the climate. Every watt generated either draws from finite geological stocks or harvests renewable flows—and this distinction shapes atmospheric chemistry, ecological stability, and intergenerational responsibility for centuries. This section examines energy sources through a systems lens: resource availability, carbon intensity, reversibility, and the long-term consequences that extend far beyond quarterly reports or political cycles.
 
@@ -135,4 +135,4 @@ Understanding energy sources—their physics, their trade-offs, their long-term 
 
 ---
 
-**source:** github.com/symbolic-labs-pub
+**source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)
