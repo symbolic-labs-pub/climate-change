@@ -2,7 +2,7 @@
 
 [Climate change](00_Climate/02_what_is) is the defining challenge of the 21st century. In early 2026, atmospheric CO2 reached 425.7 ppm—52% above pre-industrial levels—while fossil fuel emissions hit a record 38.1 billion tonnes. The remaining carbon budget to limit warming to 1.5°C stands at approximately 170 GtCO2, equivalent to roughly four years at current emission rates. These numbers are not abstractions; they describe physical processes that will shape ecosystems, economies, and human societies for centuries.
 
-[![climate_change_overview.png](climate_change_overview.png)](https://github.com/symbolic-labs-pub/climate-change)
+[![climate_change_overview.png](images/climate_change_overview.png)](https://github.com/symbolic-labs-pub/climate-change)
 
 Yet climate change is not an unsolvable problem. It is a systems failure—and systems can be redesigned. This repository explores how individuals, communities, and institutions can align their actions with physical reality rather than rely on symbolic gestures. It examines climate through three interconnected domains: what we do at home, how we travel, and where our energy comes from.
 
@@ -110,7 +110,7 @@ Climate stability is not achieved by perfection, but by coordination with realit
 
 This repository offers a framework for understanding where individual and collective choices intersect with planetary systems. The future depends less on what we promise, and more on how well we understand the flows we are already part of.
 
-[![The_Global_Climate.png](The_Global_Climate.png)](00_Climate/)
+[![The_Global_Climate.png](images/The_Global_Climate.png)](00_Climate/)
 
 ---
 
