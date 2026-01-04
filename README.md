@@ -10,7 +10,7 @@ Yet climate change is not an unsolvable problem. It is a systems failure—and s
 
 ## The Three Pillars
 
-Climate action operates across multiple scales, but individual influence concentrates at specific boundaries where personal decisions intersect with physical systems. This repository organizes climate understanding into three domains:
+[Climate](00_Climate/01_cycles) action operates across multiple scales, but individual influence concentrates at specific boundaries where personal decisions intersect with physical systems. This repository organizes climate understanding into three domains:
 
 ---
 
