@@ -139,4 +139,4 @@ In a world transitioning to renewable energy, timing becomes as important as eff
 
 ---
 
-**source:** early 2026 [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)
+**source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub) at early 2026

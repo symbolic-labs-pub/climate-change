@@ -147,4 +147,4 @@ A bright future is not defined by energy scarcity, but by energy wisdom—using 
 
 ---
 
-**source:** early 2026 [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)
+**source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub) at early 2026

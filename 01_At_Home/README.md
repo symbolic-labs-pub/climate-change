@@ -129,4 +129,4 @@ The future depends less on what we promise, and more on how well we understand t
 
 ---
 
-**source:** early 2026 [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)
+**source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub) at early 2026

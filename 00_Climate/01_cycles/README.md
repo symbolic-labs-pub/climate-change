@@ -167,4 +167,4 @@ Only by respecting the system as a whole can meaningful interpretation—or inte
 
 ---
 
-**source:** early 2026 [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)
+**source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub) at early 2026
