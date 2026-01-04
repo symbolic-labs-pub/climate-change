@@ -166,4 +166,4 @@ A bright climate future is not achieved by choosing a single energy source, but 
 
 ---
 
-**source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)
+**source:** early 2026 [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)

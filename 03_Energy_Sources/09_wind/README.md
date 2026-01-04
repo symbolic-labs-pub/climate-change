@@ -166,4 +166,4 @@ In a stable climate future, the wind does not just move air. It moves civilizati
 
 ---
 
-**source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)
+**source:** early 2026 [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)

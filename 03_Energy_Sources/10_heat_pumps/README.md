@@ -171,4 +171,4 @@ A stable climate future will be built not by burning more fuel, but by **moving 
 
 ---
 
-**source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)
+**source:** early 2026 [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)

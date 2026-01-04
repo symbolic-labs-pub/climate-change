@@ -60,4 +60,4 @@ Hydropower is not impact-free, but its impacts are **bounded, manageable, and re
 
 ---
 
-**source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)
+**source:** early 2026 [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)

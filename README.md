@@ -110,7 +110,7 @@ Climate stability is not achieved by perfection, but by coordination with realit
 
 This repository offers a framework for understanding where individual and collective choices intersect with planetary systems. The future depends less on what we promise, and more on how well we understand the flows we are already part of.
 
-[![The_Global_Climate.png](The_Global_Climate.png)](https://github.com/symbolic-labs-pub/climate-change)
+[![The_Global_Climate.png](The_Global_Climate.png)](00_Climate/)
 
 ---
 
@@ -120,4 +120,4 @@ This repository offers a framework for understanding where individual and collec
 
 ---
 
-**source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)
+**source:** early 2026 [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)

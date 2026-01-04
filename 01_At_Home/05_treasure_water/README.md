@@ -130,4 +130,4 @@ In a warming world, protecting the water cycle is inseparable from protecting th
 
 ---
 
-**source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)
+**source:** early 2026 [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)
