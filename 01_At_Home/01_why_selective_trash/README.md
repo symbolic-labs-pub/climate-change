@@ -99,7 +99,7 @@ When polymers are mixed:
 
 Chemical recycling technologies exist, but remain energy-intensive and limited in scale. As a result, global plastic recycling rates remain low, and much plastic is landfilled, incinerated, or mismanaged.
 
-From a climate and risk perspective, plastic sorting is necessary but insufficient; **[plastic avoidance](../04_prefer_natural_materials/)** remains the most effective strategy.
+From a climate and risk perspective, plastic sorting is necessary but insufficient; **[plastic avoidance](../04_prefer_natural_materials/README.md)** remains the most effective strategy.
 
 ---
 
@@ -164,7 +164,7 @@ The only remaining variable is whether materials enter it in the right form.
 
 | | |
 |:--|--:|
-| [< previous \| At Home](../) | [Energy Timing \| next >](../02_use_appliances_at_sunlight/) |
+| [< previous \| At Home](../README.md) | [Energy Timing \| next >](../02_use_appliances_at_sunlight/README.md) |
 
 ---
 

@@ -177,7 +177,7 @@ In a warming world, the future of travel is not about moving less—it is about 
 
 | | |
 |:--|--:|
-| [< previous \| Engines](../03_engines/) | [Energy Sources \| next >](../../03_Energy_Sources/) |
+| [< previous \| Engines](../03_engines/README.md) | [Energy Sources \| next >](../../03_Energy_Sources/README.md) |
 
 ---
 

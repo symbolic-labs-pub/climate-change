@@ -189,7 +189,7 @@ Climate reversal is not achieved by eliminating energy use, but by **choosing th
 
 | | |
 |:--|--:|
-| [< previous \| Human Power](../02_human/) | [Renewable Energy \| next >](../04_renewables/) |
+| [< previous \| Human Power](../02_human/README.md) | [Renewable Energy \| next >](../04_renewables/README.md) |
 
 ---
 

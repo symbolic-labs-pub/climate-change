@@ -162,7 +162,7 @@ A bright climate future is not achieved by choosing a single energy source, but 
 
 | | |
 |:--|--:|
-| [< previous \| Renewable Energy](../04_renewables/) | [Steam Machines \| next >](../06_steam_machines/) |
+| [< previous \| Renewable Energy](../04_renewables/README.md) | [Steam Machines \| next >](../06_steam_machines/README.md) |
 
 ---
 

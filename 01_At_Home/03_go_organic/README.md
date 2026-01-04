@@ -16,7 +16,7 @@ The cornerstone is synthetic nitrogen fertilizer, produced via the **Haber–Bos
 * High pressures
 * Hydrogen, almost always derived from fossil natural gas
 
-Globally, nitrogen fertilizer production consumes a significant share of industrial [natural gas](../../03_Energy_Sources/03_fossil/) and accounts for a substantial portion of agricultural greenhouse gas emissions. This makes food production not only energy-intensive, but **fossil-dependent at a chemical level**.
+Globally, nitrogen fertilizer production consumes a significant share of industrial [natural gas](../../03_Energy_Sources/03_fossil/README.md) and accounts for a substantial portion of agricultural greenhouse gas emissions. This makes food production not only energy-intensive, but **fossil-dependent at a chemical level**.
 
 ---
 
@@ -38,9 +38,9 @@ As long as nitrogen fertilizer is fossil-derived, large-scale monoculture farmin
 
 Industrial agriculture is optimized for scale, uniformity, and predictability. Its typical structure looks like this:
 
-* [Fossil fuels](../../03_Energy_Sources/03_fossil/) → fertilizer production
+* [Fossil fuels](../../03_Energy_Sources/03_fossil/README.md) → fertilizer production
 * Fertilizer → monoculture crop systems
-* Crops → long-distance [logistics](../../02_Travel/01_transport/)
+* Crops → long-distance [logistics](../../02_Travel/01_transport/README.md)
 * Processing → packaging → global distribution
 
 This system excels at producing large quantities of inexpensive calories. However, it is brittle. It depends on stable fossil energy prices, global logistics, and externalized environmental costs.
@@ -140,7 +140,7 @@ In climate mitigation, progress often comes not from perfect solutions, but from
 
 | | |
 |:--|--:|
-| [< previous \| Energy Timing](../02_use_appliances_at_sunlight/) | [Natural Materials \| next >](../04_prefer_natural_materials/) |
+| [< previous \| Energy Timing](../02_use_appliances_at_sunlight/README.md) | [Natural Materials \| next >](../04_prefer_natural_materials/README.md) |
 
 ---
 

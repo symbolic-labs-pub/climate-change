@@ -148,7 +148,7 @@ In the transition to a sustainable future, some of the most powerful solutions a
 
 | | |
 |:--|--:|
-| [< previous \| Comparing Energy Sources](../01_sources/) | [Fossil Fuels \| next >](../03_fossil/) |
+| [< previous \| Comparing Energy Sources](../01_sources/README.md) | [Fossil Fuels \| next >](../03_fossil/README.md) |
 
 ---
 

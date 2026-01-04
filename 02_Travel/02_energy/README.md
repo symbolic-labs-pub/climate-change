@@ -173,7 +173,7 @@ Understanding these physical realities allows individuals to make informed choic
 
 | | |
 |:--|--:|
-| [< previous \| Transport Modes](../01_transport/) | [Engines \| next >](../03_engines/) |
+| [< previous \| Transport Modes](../01_transport/README.md) | [Engines \| next >](../03_engines/README.md) |
 
 ---
 

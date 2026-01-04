@@ -195,7 +195,7 @@ but the steam that spins them will come from the Sun, the Earth, and clean nucle
 
 | | |
 |:--|--:|
-| [< previous \| Nuclear Fission](../05_nuclear/) | [Hydropower \| next >](../07_hydro/) |
+| [< previous \| Nuclear Fission](../05_nuclear/README.md) | [Hydropower \| next >](../07_hydro/README.md) |
 
 ---
 

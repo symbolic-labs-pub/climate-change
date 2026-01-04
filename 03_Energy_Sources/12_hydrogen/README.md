@@ -206,7 +206,7 @@ Reversing climate change requires matching solutions to problems. Hydrogen is po
 
 | | |
 |:--|--:|
-| [< previous \| Nuclear Fusion](../11_fusion/) | [At Home \| next >](../../01_At_Home/) |
+| [< previous \| Nuclear Fusion](../11_fusion/README.md) | [At Home \| next >](../../01_At_Home/README.md) |
 
 ---
 

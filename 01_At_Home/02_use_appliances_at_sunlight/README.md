@@ -16,7 +16,7 @@ This real-time constraint means that the **carbon intensity of electricity varie
 
 ## 2. The Rise of Midday Solar Generation
 
-Over the past two decades, [solar photovoltaic](../../03_Energy_Sources/08_solar/) capacity has expanded rapidly. Solar generation follows a predictable daily pattern:
+Over the past two decades, [solar photovoltaic](../../03_Energy_Sources/08_solar/README.md) capacity has expanded rapidly. Solar generation follows a predictable daily pattern:
 
 * Near zero at night
 * Rapid increase in the morning
@@ -57,7 +57,7 @@ Many household electricity uses are temporally flexible:
 * Dishwashers
 * Ovens and electric cooking
 * Electric water heating
-* [Electric vehicle](../../02_Travel/03_engines/) charging
+* [Electric vehicle](../../02_Travel/03_engines/README.md) charging
 
 These devices typically consume significant power over limited periods but do not require immediate operation. Running them during daylight hours aligns consumption with clean generation without affecting quality of life.
 
@@ -135,7 +135,7 @@ In a world transitioning to renewable energy, timing becomes as important as eff
 
 | | |
 |:--|--:|
-| [< previous \| Selective Waste Sorting](../01_why_selective_trash/) | [Organic Food \| next >](../03_go_organic/) |
+| [< previous \| Selective Waste Sorting](../01_why_selective_trash/README.md) | [Organic Food \| next >](../03_go_organic/README.md) |
 
 ---
 

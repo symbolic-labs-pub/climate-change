@@ -14,52 +14,52 @@ Yet climate change is not an unsolvable problem. It is a systems failure—and s
 
 ---
 
-### [At Home: Individual Climate Actions](01_At_Home/)
+### [At Home: Individual Climate Actions](01_At_Home/README.md)
 
-[![Climate action at home](01_At_Home/01_at-home.png)](01_At_Home/)
+[![Climate action at home](01_At_Home/01_at-home.png)](01_At_Home/README.md)
 
 The home is where individual choices most directly affect material and energy flows. This section examines five key intervention points:
 
-- **[Selective waste sorting](01_At_Home/01_why_selective_trash/)** — preserving material integrity for recycling
-- **[Timing energy use](01_At_Home/02_use_appliances_at_sunlight/)** — aligning consumption with solar generation peaks
-- **[Organic and local food](01_At_Home/03_go_organic/)** — reducing fossil nitrogen dependency
-- **[Natural materials](01_At_Home/04_prefer_natural_materials/)** — avoiding irreversible microplastic pollution
-- **[Water conservation](01_At_Home/05_treasure_water/)** — understanding the energy embedded in every liter
+- **[Selective waste sorting](01_At_Home/01_why_selective_trash/README.md)** — preserving material integrity for recycling
+- **[Timing energy use](01_At_Home/02_use_appliances_at_sunlight/README.md)** — aligning consumption with solar generation peaks
+- **[Organic and local food](01_At_Home/03_go_organic/README.md)** — reducing fossil nitrogen dependency
+- **[Natural materials](01_At_Home/04_prefer_natural_materials/README.md)** — avoiding irreversible microplastic pollution
+- **[Water conservation](01_At_Home/05_treasure_water/README.md)** — understanding the energy embedded in every liter
 
 These actions work not because they are virtuous, but because they reduce pressure on systems already operating beyond sustainable limits.
 
 ---
 
-### [Travel: Moving People and Goods](02_Travel/)
+### [Travel: Moving People and Goods](02_Travel/README.md)
 
-[![Sustainable transportation](02_Travel/02_travel.png)](02_Travel/)
+[![Sustainable transportation](02_Travel/02_travel.png)](02_Travel/README.md)
 
 Transportation accounts for approximately 24% of global CO2 emissions and is one of the fastest-growing emission sources. This section analyzes mobility through the lens of physics:
 
-- **[Transport modes](02_Travel/01_transport/)** — comparing rail, bus, car, and aviation by efficiency
-- **[Energy density](02_Travel/02_energy/)** — why batteries work for cars but not yet for planes
-- **[Engine systems](02_Travel/03_engines/)** — thermodynamic efficiency of combustion vs. electric motors
-- **[Sustainable travel](02_Travel/04_scene/)** — ecological dimensions of how we move
-- **[Turbine technology](03_Energy_Sources/06_steam_machines/)** — engineering perspectives on propulsion
+- **[Transport modes](02_Travel/01_transport/README.md)** — comparing rail, bus, car, and aviation by efficiency
+- **[Energy density](02_Travel/02_energy/README.md)** — why batteries work for cars but not yet for planes
+- **[Engine systems](02_Travel/03_engines/README.md)** — thermodynamic efficiency of combustion vs. electric motors
+- **[Sustainable travel](02_Travel/04_scene/README.md)** — ecological dimensions of how we move
+- **[Turbine technology](03_Energy_Sources/06_steam_machines/README.md)** — engineering perspectives on propulsion
 
 Mode choice often matters more than distance traveled. A 1,000 km train journey can emit less than a 100 km car trip.
 
 ---
 
-### [Energy Sources: Power Generation](03_Energy_Sources/)
+### [Energy Sources: Power Generation](03_Energy_Sources/README.md)
 
-[![Energy systems comparison](03_Energy_Sources/03_energy_sources.png)](03_Energy_Sources/)
+[![Energy systems comparison](03_Energy_Sources/03_energy_sources.png)](03_Energy_Sources/README.md)
 
 Every energy choice shapes climate trajectories across timescales from seconds to millennia. This section compares energy systems from human power to nuclear fusion:
 
-- **[Source comparison](03_Energy_Sources/01_sources/)** — stocks vs. flows, carbon intensity, reversibility
-- **[Human power](03_Energy_Sources/02_human/)** — zero-emission mobility within biological limits
-- **[Fossil fuels](03_Energy_Sources/03_fossil/)** — high density, irreversible atmospheric release
-- **[Renewables](03_Energy_Sources/04_renewables/)** — [solar](03_Energy_Sources/08_solar/), [wind](03_Energy_Sources/09_wind/), and [hydro](03_Energy_Sources/07_hydro/) as flow-based systems
-- **[Nuclear fission](03_Energy_Sources/05_nuclear/)** — carbon-neutral with intergenerational responsibilities
-- **[Heat pumps](03_Energy_Sources/10_heat_pumps/)** — moving heat instead of making it
-- **[Hydrogen](03_Energy_Sources/12_hydrogen/)** — energy carrier for hard-to-electrify sectors
-- **[Fusion](03_Energy_Sources/11_fusion/)** — the long-term promise and current limitations
+- **[Source comparison](03_Energy_Sources/01_sources/README.md)** — stocks vs. flows, carbon intensity, reversibility
+- **[Human power](03_Energy_Sources/02_human/README.md)** — zero-emission mobility within biological limits
+- **[Fossil fuels](03_Energy_Sources/03_fossil/README.md)** — high density, irreversible atmospheric release
+- **[Renewables](03_Energy_Sources/04_renewables/README.md)** — [solar](03_Energy_Sources/08_solar/README.md), [wind](03_Energy_Sources/09_wind/README.md), and [hydro](03_Energy_Sources/07_hydro/README.md) as flow-based systems
+- **[Nuclear fission](03_Energy_Sources/05_nuclear/README.md)** — carbon-neutral with intergenerational responsibilities
+- **[Heat pumps](03_Energy_Sources/10_heat_pumps/README.md)** — moving heat instead of making it
+- **[Hydrogen](03_Energy_Sources/12_hydrogen/README.md)** — energy carrier for hard-to-electrify sectors
+- **[Fusion](03_Energy_Sources/11_fusion/README.md)** — the long-term promise and current limitations
 
 Understanding these trade-offs enables informed choices about the energy systems that will power the 21st century.
 
@@ -97,10 +97,10 @@ The physics of climate change cannot be negotiated. But the choices we make—in
 Each section can be read independently, but they interconnect. Energy choices affect both home and travel. Transportation determines urban form and thus home energy demand. Material choices at home influence industrial energy consumption.
 
 Navigate by interest:
-- **Start with systems thinking**: [Comparing Energy Sources](03_Energy_Sources/01_sources/)
-- **Focus on personal action**: [At Home](01_At_Home/)
-- **Understand transportation**: [Travel](02_Travel/)
-- **Explore specific technologies**: [Heat pumps](03_Energy_Sources/10_heat_pumps/), [solar](03_Energy_Sources/08_solar/), [EVs](02_Travel/03_engines/) in their respective sections
+- **Start with systems thinking**: [Comparing Energy Sources](03_Energy_Sources/01_sources/README.md)
+- **Focus on personal action**: [At Home](01_At_Home/README.md)
+- **Understand transportation**: [Travel](02_Travel/README.md)
+- **Explore specific technologies**: [Heat pumps](03_Energy_Sources/10_heat_pumps/README.md), [solar](03_Energy_Sources/08_solar/README.md), [EVs](02_Travel/03_engines/README.md) in their respective sections
 
 ---
 
@@ -110,13 +110,13 @@ Climate stability is not achieved by perfection, but by coordination with realit
 
 This repository offers a framework for understanding where individual and collective choices intersect with planetary systems. The future depends less on what we promise, and more on how well we understand the flows we are already part of.
 
-[![The_Global_Climate.png](images/The_Global_Climate.png)](00_Climate/)
+[![The_Global_Climate.png](images/The_Global_Climate.png)](00_Climate/README.md)
 
 ---
 
 | | |
 |:--|--:|
-| | [At Home \| next >](01_At_Home/) |
+| | [At Home \| next >](01_At_Home/README.md) |
 
 ---
 

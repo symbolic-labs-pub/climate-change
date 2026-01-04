@@ -8,7 +8,7 @@ Plastics have transformed modern society through durability, low cost, and versa
 
 ## 1. Plastics as a Geological Material in a Biological World
 
-Plastics are not merely manufactured objects; they are **[fossil](../../03_Energy_Sources/03_fossil/) carbon reshaped into solid form**. Their feedstock—oil and natural gas—originates from geological timescales, yet plastic products are dispersed into ecosystems operating on biological timescales.
+Plastics are not merely manufactured objects; they are **[fossil](../../03_Energy_Sources/03_fossil/README.md) carbon reshaped into solid form**. Their feedstock—oil and natural gas—originates from geological timescales, yet plastic products are dispersed into ecosystems operating on biological timescales.
 
 This mismatch is fundamental. Biological systems are adapted to cycle carbon, nutrients, and minerals that degrade, metabolize, or mineralize. Plastics resist these processes. They do not rot, dissolve, or reintegrate. They only fragment.
 
@@ -136,7 +136,7 @@ In climate action, the most powerful choices are often those that prevent irreve
 
 | | |
 |:--|--:|
-| [< previous \| Organic Food](../03_go_organic/) | [Water Conservation \| next >](../05_treasure_water/) |
+| [< previous \| Organic Food](../03_go_organic/README.md) | [Water Conservation \| next >](../05_treasure_water/README.md) |
 
 ---
 

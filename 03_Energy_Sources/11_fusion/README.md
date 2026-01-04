@@ -176,7 +176,7 @@ A bright future is not built by betting on a single breakthrough, but by **combi
 
 | | |
 |:--|--:|
-| [< previous \| Heat Pumps](../10_heat_pumps/) | [Hydrogen \| next >](../12_hydrogen/) |
+| [< previous \| Heat Pumps](../10_heat_pumps/README.md) | [Hydrogen \| next >](../12_hydrogen/README.md) |
 
 ---
 

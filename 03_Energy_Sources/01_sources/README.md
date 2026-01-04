@@ -22,7 +22,7 @@ Understanding climate action therefore requires comparing energy sources not onl
 
 ## 2. Human-Powered Energy: Low Impact, High Co-Benefits
 
-[Human-driven energy](../02_human/)—walking, running, cycling, skating—operates entirely within biological limits.
+[Human-driven energy](../02_human/README.md)—walking, running, cycling, skating—operates entirely within biological limits.
 
 ### Characteristics
 
@@ -46,9 +46,9 @@ From a systems perspective, human-powered transport is **energy-positive for soc
 
 ## 3. Fossil Fuels: High Density, High Irreversibility
 
-### [Coal, Oil, and Natural Gas](../03_fossil/)
+### [Coal, Oil, and Natural Gas](../03_fossil/README.md)
 
-[Fossil fuels](../03_fossil/) dominate modern energy systems due to their high energy density and dispatchability. However, their defining characteristic is **irreversibility**.
+[Fossil fuels](../03_fossil/README.md) dominate modern energy systems due to their high energy density and dispatchability. However, their defining characteristic is **irreversibility**.
 
 #### Properties
 
@@ -68,9 +68,9 @@ Even when infrastructure is decommissioned, emissions remain. Fossil fuels conve
 
 ## 4. Renewable Energy: Flow-Based and Regenerative
 
-### [Solar](../08_solar/), [Wind](../09_wind/), and [Hydropower](../07_hydro/)
+### [Solar](../08_solar/README.md), [Wind](../09_wind/README.md), and [Hydropower](../07_hydro/README.md)
 
-[Renewable energy](../04_renewables/) sources draw from **natural energy flows** rather than finite stocks.
+[Renewable energy](../04_renewables/README.md) sources draw from **natural energy flows** rather than finite stocks.
 
 #### Key Characteristics
 
@@ -82,8 +82,8 @@ Even when infrastructure is decommissioned, emissions remain. Fossil fuels conve
 
 Renewables are not impact-free:
 
-* [Hydropower](../07_hydro/) alters river ecosystems
-* [Wind](../09_wind/) and [solar](../08_solar/) require land and materials
+* [Hydropower](../07_hydro/README.md) alters river ecosystems
+* [Wind](../09_wind/README.md) and [solar](../08_solar/README.md) require land and materials
 * Poor siting can fragment habitats
 
 However, these impacts are **bounded and reversible**. Infrastructure can be redesigned, relocated, or removed without long-term chemical contamination.
@@ -92,9 +92,9 @@ Renewables align with climate goals because they reduce emissions while preservi
 
 ---
 
-## 5. [Nuclear Energy](../05_nuclear/): Carbon-Neutral but Temporally Asymmetric
+## 5. [Nuclear Energy](../05_nuclear/README.md): Carbon-Neutral but Temporally Asymmetric
 
-[Nuclear power](../05_nuclear/) occupies a unique position.
+[Nuclear power](../05_nuclear/README.md) occupies a unique position.
 
 ### Advantages
 
@@ -142,9 +142,9 @@ Individuals do not choose national energy grids—but they influence demand patt
 
 By:
 
-* [Walking or cycling](../02_human/) instead of driving
-* Supporting [renewable](../04_renewables/)-powered services
-* Reducing [fossil](../03_fossil/) energy demand
+* [Walking or cycling](../02_human/README.md) instead of driving
+* Supporting [renewable](../04_renewables/README.md)-powered services
+* Reducing [fossil](../03_fossil/README.md) energy demand
 * Accepting slower but cleaner systems
 
 individuals reinforce energy pathways that are:
@@ -183,7 +183,7 @@ enhance ecological resilience and climate stability simultaneously.
 
 No energy source is free of impact. The critical question is **which impacts are reversible, which are cumulative, and which extend beyond human timescales**.
 
-[Human-powered energy](../02_human/) offers immediate climate and health benefits. [Renewables](../04_renewables/) provide scalable, low-emission power aligned with ecological cycles. [Fossil fuels](../03_fossil/) deliver convenience at the cost of permanent atmospheric change. [Nuclear energy](../05_nuclear/) minimizes carbon emissions but imposes long-term stewardship obligations.
+[Human-powered energy](../02_human/README.md) offers immediate climate and health benefits. [Renewables](../04_renewables/README.md) provide scalable, low-emission power aligned with ecological cycles. [Fossil fuels](../03_fossil/README.md) deliver convenience at the cost of permanent atmospheric change. [Nuclear energy](../05_nuclear/README.md) minimizes carbon emissions but imposes long-term stewardship obligations.
 
 Reversing climate change does not require a single perfect energy source. It requires **choosing systems that preserve future options**. From an individual perspective, aligning daily energy use with renewable flows and biological limits is one of the most effective contributions to a stable climate and a living planet.
 
@@ -191,7 +191,7 @@ Reversing climate change does not require a single perfect energy source. It req
 
 | | |
 |:--|--:|
-| [< previous \| Energy Sources](../) | [Human Power \| next >](../02_human/) |
+| [< previous \| Energy Sources](../README.md) | [Human Power \| next >](../02_human/README.md) |
 
 ---
 

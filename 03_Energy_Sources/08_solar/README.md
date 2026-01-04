@@ -155,7 +155,7 @@ Supporting solar energy is therefore not only an emissions-reduction strategy, b
 
 | | |
 |:--|--:|
-| [< previous \| Hydropower](../07_hydro/) | [Wind Power \| next >](../09_wind/) |
+| [< previous \| Hydropower](../07_hydro/README.md) | [Wind Power \| next >](../09_wind/README.md) |
 
 ---
 
