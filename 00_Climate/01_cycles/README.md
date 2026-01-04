@@ -167,4 +167,10 @@ Only by respecting the system as a whole can meaningful interpretation—or inte
 
 ---
 
+| | |
+|:--|--:|
+| [< previous \| Understanding Climate](../README.md) | [What Is Climate Change? \| next >](../02_what_is/README.md) |
+
+---
+
 **source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub) at early 2026

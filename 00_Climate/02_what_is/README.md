@@ -170,4 +170,10 @@ The infographic presents climate change not as an endpoint, but as a **decision 
 
 ---
 
+| | |
+|:--|--:|
+| [< previous \| Climate Cycles](../01_cycles/README.md) | [At Home \| next >](../../01_At_Home/README.md) |
+
+---
+
 **source:** [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub) at early 2026

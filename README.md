@@ -1,6 +1,6 @@
 # [Understanding Climate Change: Systems, Actions, and Solutions](https://github.com/symbolic-labs-pub/climate-change)
 
-[Climate change](00_Climate/02_what_is) is the defining challenge of the 21st century. In early 2026, atmospheric CO2 reached 425.7 ppm—52% above pre-industrial levels—while fossil fuel emissions hit a record 38.1 billion tonnes. The remaining carbon budget to limit warming to 1.5°C stands at approximately 170 GtCO2, equivalent to roughly four years at current emission rates. These numbers are not abstractions; they describe physical processes that will shape ecosystems, economies, and human societies for centuries.
+[Climate change](00_Climate/02_what_is/README.md) is the defining challenge of the 21st century. In early 2026, atmospheric CO2 reached 425.7 ppm—52% above pre-industrial levels—while fossil fuel emissions hit a record 38.1 billion tonnes. The remaining carbon budget to limit warming to 1.5°C stands at approximately 170 GtCO2, equivalent to roughly four years at current emission rates. These numbers are not abstractions; they describe physical processes that will shape ecosystems, economies, and human societies for centuries.
 
 [![climate_change_overview.png](images/climate_change_overview.png)](https://github.com/symbolic-labs-pub/climate-change)
 
@@ -8,9 +8,24 @@ Yet climate change is not an unsolvable problem. It is a systems failure—and s
 
 ---
 
-## The Three Pillars
+## The Foundation: Understanding Climate Science
 
-[Climate](00_Climate/01_cycles) action operates across multiple scales, but individual influence concentrates at specific boundaries where personal decisions intersect with physical systems. This repository organizes climate understanding into three domains:
+### [Climate: Natural Cycles and Human Influence](00_Climate/README.md)
+
+[![Earth's climate system](00_Climate/00_climate.png)](00_Climate/README.md)
+
+Climate science provides the physical foundation for understanding why actions matter. This section examines Earth's climate as a coupled dynamical system—natural cycles operating across timescales from years to millennia, and how human activities alter these fundamental processes.
+
+- **[Natural climate cycles](00_Climate/01_cycles/README.md)** — orbital forcing, solar variability, ocean circulation, and biospheric feedbacks
+- **[What is climate change?](00_Climate/02_what_is/README.md)** — energy balance, anthropogenic forcing, and path-dependent futures
+
+Understanding these physical constraints enables informed action across all other domains.
+
+---
+
+## The Three Action Domains
+
+Climate action operates across multiple scales, but individual influence concentrates at specific boundaries where personal decisions intersect with physical systems. This repository organizes climate action into three domains:
 
 ---
 
@@ -97,9 +112,10 @@ The physics of climate change cannot be negotiated. But the choices we make—in
 Each section can be read independently, but they interconnect. Energy choices affect both home and travel. Transportation determines urban form and thus home energy demand. Material choices at home influence industrial energy consumption.
 
 Navigate by interest:
-- **Start with systems thinking**: [Comparing Energy Sources](03_Energy_Sources/01_sources/README.md)
-- **Focus on personal action**: [At Home](01_At_Home/README.md)
-- **Understand transportation**: [Travel](02_Travel/README.md)
+- **Start with the foundation**: [Understanding Climate](00_Climate/README.md) — grasp the physical basis
+- **Apply systems thinking**: [Comparing Energy Sources](03_Energy_Sources/01_sources/README.md) — understand energy trade-offs
+- **Focus on personal action**: [At Home](01_At_Home/README.md) — daily interventions that matter
+- **Understand transportation**: [Travel](02_Travel/README.md) — mobility choices and physics
 - **Explore specific technologies**: [Heat pumps](03_Energy_Sources/10_heat_pumps/README.md), [solar](03_Energy_Sources/08_solar/README.md), [EVs](02_Travel/03_engines/README.md) in their respective sections
 
 ---
@@ -116,7 +132,7 @@ This repository offers a framework for understanding where individual and collec
 
 | | |
 |:--|--:|
-| | [At Home \| next >](01_At_Home/README.md) |
+| | [Understanding Climate \| next >](00_Climate/README.md) |
 
 ---
 
