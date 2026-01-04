@@ -1,6 +1,6 @@
 # [Understanding Climate Change: Systems, Actions, and Solutions](https://github.com/symbolic-labs-pub/climate-change)
 
-[Climate](00_Climate/01_cycles) change is the defining challenge of the 21st century. In early 2026, atmospheric CO2 reached 425.7 ppm—52% above pre-industrial levels—while fossil fuel emissions hit a record 38.1 billion tonnes. The remaining carbon budget to limit warming to 1.5°C stands at approximately 170 GtCO2, equivalent to roughly four years at current emission rates. These numbers are not abstractions; they describe physical processes that will shape ecosystems, economies, and human societies for centuries.
+[Climate change](00_Climate/02_what_is) is the defining challenge of the 21st century. In early 2026, atmospheric CO2 reached 425.7 ppm—52% above pre-industrial levels—while fossil fuel emissions hit a record 38.1 billion tonnes. The remaining carbon budget to limit warming to 1.5°C stands at approximately 170 GtCO2, equivalent to roughly four years at current emission rates. These numbers are not abstractions; they describe physical processes that will shape ecosystems, economies, and human societies for centuries.
 
 [![climate_change_overview.png](climate_change_overview.png)](https://github.com/symbolic-labs-pub/climate-change)
 
